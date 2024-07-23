@@ -1,8 +1,8 @@
-#POSTMAN BEGINNER COURSE
+@POSTMAN BEGINNER COURSE
 
     working with: https://simple-books-api.glitch.me/status
 
-##postman collections and variables
+@postman collections and variables
 
 [facebook](www.facebook.com)
 
