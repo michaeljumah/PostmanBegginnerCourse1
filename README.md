@@ -6,7 +6,7 @@
 
 [facebook](www.facebook.com)
 
-[x](www.x.com)
+[x](www.twitter.com)
 
 
 
