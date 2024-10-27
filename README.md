@@ -7,4 +7,4 @@
 
 
 #-------progress-------
-30 minutes
+51 minutes
