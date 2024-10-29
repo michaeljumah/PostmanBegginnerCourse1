@@ -3,7 +3,7 @@
     working with: https://simple-books-api.glitch.me  
 
 ##postman collections and variables
-
+using{{variable}} to name variables
 
 ##API TESTING
 ###example of TESTING
