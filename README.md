@@ -6,6 +6,10 @@
 
 
 ##API TESTING
+###example of TESTING
+pm.test("Status code to be 200", () => {
+    pm.response.to.have.status("200");
+});
 
 
 -------progress-------
