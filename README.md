@@ -8,8 +8,8 @@ using{{variable}} to name variables
 
 ##API TESTING
 ###example of TESTING
-pm.test("Status code to be 200", () => {
-    pm.response.to.have.status("200");
+pm.test("status is OK", () => {
+    pm.response(response.status).to.be.("OK")
 });
 
 
