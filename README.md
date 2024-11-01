@@ -9,7 +9,7 @@ using{{variable}} to name variables
 ##API TESTING
 ###example of TESTING
 pm.test("status is OK", () => {
-    pm.response(response.status).to.be.("OK")
+    pm.response(response.status).to.be.("OK");
 });
 
 
