@@ -7,10 +7,12 @@
 using{{variable}} to name variables
 
 ##API TESTING
-###example of TESTING
-pm.test("status is OK", () => {
-    pm.response.to.have.status(200);
-});
+ 
+    ###example of TESTING
+
+        pm.test("status is OK", () => {
+        pm.response.to.have.status(200);
+        });
 
 
 -------progress-------
