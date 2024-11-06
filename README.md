@@ -4,7 +4,7 @@
 
 ##postman collections and variables
 
-using{{variable}} to name variables
+using  {{variable}} to name variables
 
 ##API TESTING
  
